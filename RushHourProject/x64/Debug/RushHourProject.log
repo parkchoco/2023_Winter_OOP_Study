@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\NoteBook\OneDrive\바탕 화면\성영\공부\객체지향 파일\객체지향\RushHourProject\MyForm.cpp(7,33): warning C4829: main 함수에 대한 매개 변수가 잘못된 것 같습니다. 'int main(Platform::Array<Platform::String^>^ argv)'를 사용하십시오.
+  MyForm.obj : MSIL 모듈이 발견되었습니다. MSIL에 증분 링크를 사용할 수 없습니다. 전체 링크를 수행하고 있습니다.
+  RushHourProject.vcxproj -> C:\Users\NoteBook\OneDrive\바탕 화면\성영\공부\객체지향 파일\객체지향\RushHourProject\x64\Debug\RushHourProject.exe

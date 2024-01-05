@@ -1,0 +1,7 @@
+﻿  Circle.cpp
+C:\Users\NoteBook\OneDrive\바탕 화면\성영\공부\객체지향 파일\객체지향\RushHour\day1207\Shape.h(11,28): error C2059: 구문 오류: 'return'
+C:\Users\NoteBook\OneDrive\바탕 화면\성영\공부\객체지향 파일\객체지향\RushHour\day1207\Shape.h(11,17): error C2091: 함수가 함수를 반환합니다.
+C:\Users\NoteBook\OneDrive\바탕 화면\성영\공부\객체지향 파일\객체지향\RushHour\day1207\Shape.h(7,7): error C2530: 'Shape::_p1': 참조를 초기화해야 합니다.
+C:\Users\NoteBook\OneDrive\바탕 화면\성영\공부\객체지향 파일\객체지향\RushHour\day1207\Shape.h(7,7): error C2530: 'Shape::_p2': 참조를 초기화해야 합니다.
+  Ex12_2.cpp
+  코드를 생성하고 있습니다...

@@ -1,0 +1,2 @@
+﻿Ex17_1.obj : error LNK2019: "void __cdecl gotoxy(int,int)" (?gotoxy@@YAXHH@Z)_main 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\NoteBook\OneDrive\바탕 화면\성영\공부\객체지향 파일\객체지향\RushHour\Debug\Practice.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
